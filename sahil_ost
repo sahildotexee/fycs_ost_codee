@@ -1,0 +1,4 @@
+if ("enter greater than number") 
+a>20
+else ("enter less than number")
+b<50
