@@ -1,4 +1,6 @@
 if ("enter greater than number") 
 a>20
+elif
+a==b
 else ("enter less than number")
 b<50
